@@ -51,7 +51,7 @@ void draw(){
    enemyX+=2; 
    
     
-  //scroll the backgrounds
+  //scroll backgrounds
   bg1X++;
   bg2X++;
   
